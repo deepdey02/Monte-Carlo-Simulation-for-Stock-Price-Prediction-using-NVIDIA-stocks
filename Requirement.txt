@@ -1,0 +1,4 @@
+Requirement:
+ pandas in c:\users\deep\anaconda3\lib\site-packages (2.2.3)
+ numpy in c:\users\deep\anaconda3\lib\site-packages (1.26.4)
+  Successfully installed curl_cffi-0.13.0 multitasking-0.0.12 peewee-3.18.2 websockets-15.0.1 yfinance-0.2.65
